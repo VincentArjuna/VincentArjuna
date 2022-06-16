@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VincentArjuna
-- 👀 I’m interested in mostly Laravel and PHP, especially Back-End.
+- 👀 I’m interested in mostly Laravel and PHP, especially Back-End Development.
 
 - 🌱 I’m currently learning Javascript such as ReactJS and VueJS to expand my ability in developing web.
 - 📚 Mysql, MongoDB, Firebase? No Problem!
